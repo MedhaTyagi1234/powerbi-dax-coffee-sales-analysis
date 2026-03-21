@@ -27,4 +27,4 @@ Payment method distribution
 Applied DAX measures to calculate core metrics
 Focused on improving layout, visual hierarchy, and dashboard design
 Added business insights to make the dashboard more decision-oriented
-![Overview Analysis](images/overview_analysis.png)
+
