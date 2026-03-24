@@ -28,3 +28,15 @@ Applied DAX measures to calculate core metrics
 Focused on improving layout, visual hierarchy, and dashboard design
 Added business insights to make the dashboard more decision-oriented
 
+## Day 3 – City, Product & Customer Insights
+Built the second layer of analysis focusing on city-level patterns across customers, payments, and product performance.
+
+### Dashboard Focus
+- Customer age distribution across top cities
+- Payment preferences across major cities
+- Product performance comparison by city
+
+### Key Insights
+- The 25–34 age group contributes the highest share across all cities, indicating a strong core customer segment
+- Credit Card is the dominant payment method across top-performing cities
+- Coffee consistently leads sales across all cities, followed by Tea and Sandwich, showing stable product demand patterns
